@@ -92,7 +92,8 @@ $System_Config['radius_db_password']='';
 #Radius连接密钥
 $System_Config['radius_secret']='';
 
-
+#是否发送每日邮件
+$System_Config['sendDailyMail']='0';
 
 
 #多说设置
